@@ -1,2 +1,2 @@
 # maskedbg
-SVG Pratice run and testing masked technique similar to Photoshop effects
+SVG Practice run and testing masked technique similar to Photoshop effects.
