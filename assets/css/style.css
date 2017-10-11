@@ -14,7 +14,7 @@ html, body {
 	height: 100%;
 	color: rgb(2, 200, 242);
 	background-color: currentColor;
-	-webkit-mask: url(assets/images/3.jpg) no-repeat 50% 50%;
+	-webkit-mask: url(../images/ny_mask1.svg) no-repeat 50% 50%;
 	-webkit-mask-size: cover;
 }
 
@@ -39,11 +39,11 @@ html, body {
 }
 
 .bg_item:nth-child(1) {
-	background-image: url(assets/images/1.jpg);
+	background-image: url(../images/1.jpg);
 	background-size: cover;
 }
 
 .bg_item:nth-child(2) {
-	background-image: url(assets/images/2.jpg);
+	background-image: url(../images/2.jpg);
 	background-size: cover;
 }
